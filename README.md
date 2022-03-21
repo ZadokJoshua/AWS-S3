@@ -1,7 +1,3 @@
 # DevOps-Projects
-Hello!
+<1> Deploying a static website on AWS S3 bucket.
 
-This are sets of projects I worked on while going through the AWS DevOps Nanodegree at Udacity.
-The projects are:
-<1> Deploy a static website.
-<2> 
